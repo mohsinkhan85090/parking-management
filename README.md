@@ -5,6 +5,7 @@ This project allows you to manage parking spaces efficiently and generate QR cod
 
 ---
 
+
 ## Features
 
 - Manage parking slots and occupancy
